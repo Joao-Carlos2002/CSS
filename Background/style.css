@@ -1,0 +1,23 @@
+header {
+    background-color: aqua;
+}
+h1 {
+    color: brown; 
+}
+h3 {
+    font-size: 1.6em;
+    color: white;
+}
+li {
+    color: #b700ff;
+    font-size: 1.3rem;
+    border-color: yellow;
+    border-width: 5px;
+    margin-right: 1370px;
+    border-style: solid;
+}
+body {
+    background-image: url(/css/background/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 98rem;
+}
